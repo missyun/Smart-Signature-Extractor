@@ -1,0 +1,5 @@
+{
+  "name": "智能签名提取器 (Smart Signature Extractor)",
+  "description": "一个利用 AI 识别手写签名并自动去除背景、将其转换为透明 PNG 的工具。支持批量框选和自动命名。",
+  "requestFramePermissions": []
+}
